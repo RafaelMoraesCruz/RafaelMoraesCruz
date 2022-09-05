@@ -18,5 +18,5 @@
 <div> 
   <a href = "mailto:rafaelgeorgedemoraescruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-george-de-moraes-cruz-40a309145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://rafaelmoraescruz.github.io/Site--Treino/" target="_blank"><img src="https://img.shields.io/badge/SITE-treino-blueviolet?style=for-the-badge" target="_blank"></a> 
+   <a href="https://rafaelmoraescruz.github.io/Site--Treino/" target="_blank"><img src="https://img.shields.io/badge/SITE-blueviolet?style=for-the-badge" target="_blank"></a> 
 </div>
