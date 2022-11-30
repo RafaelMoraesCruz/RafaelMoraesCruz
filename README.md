@@ -1,8 +1,8 @@
 ## Hello there!!
-<li>
-  <ul>postgraduate degree in engineering and data analysis(CESAR School)</ul> currently
-  <ul>Civil engeneering (UPE)</ul> 
-</li>
+<ul>
+  <li>postgraduate degree in engineering and data analysis(CESAR School)</li>
+  <li>Civil engeneering (UPE)</li> 
+</ul>
 <div align="center">
   <a href="https://github.com/RafaelMoraesCruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelMoraesCruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
