@@ -1,6 +1,6 @@
 ## Hello there!!
 <ul>
-  <li>postgraduate degree in engineering and data analysis (CESAR School) (currently)</li>
+  <li>Postgraduate degree in engineering and data analysis (CESAR School) (currently)</li>
   <li>Civil engeneering (UPE)</li> 
 </ul>
 <div align="center">
