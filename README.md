@@ -1,7 +1,7 @@
 ## Hello there!!
 <ul>
   <li>Postgraduate degree in engineering and data analysis (CESAR School) (currently)</li>
-  <li>Civil engeneering (UPE)</li> 
+  <li>civil engineer (UPE)</li> 
 </ul>
 <div align="center">
   <a href="https://github.com/RafaelMoraesCruz">
