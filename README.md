@@ -1,7 +1,8 @@
 ## Hello there!!
+<h5> Contact: rafaelgeorgedemoraescruz@gmail.com </h5>
 <ul>
   <li>Postgraduate degree in engineering and data analysis (CESAR School) (currently)</li>
-  <li>civil engineer (UPE)</li> 
+  <li>Civil engineer (UPE)</li> 
 </ul>
 <div align="center">
   <a href="https://github.com/RafaelMoraesCruz">
