@@ -1,5 +1,5 @@
 ## Hello there!!
-<h2> Web Developer & Data Analyst</h2>
+<h2> Developer & Data Analyst</h2>
 <h4> Contact: rafaelgeorgedemoraescruz@gmail.com </h4>
 <ul>
   <li>Postgraduate degree in engineering and data analysis (CESAR School) (currently)</li>
