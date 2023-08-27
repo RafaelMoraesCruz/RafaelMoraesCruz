@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Bootstrap" height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Pandas" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdM-flsqMev-CGxztvU3DMzboeQkIFxfzDaj9MdWlrDA&s">
+  <img align="center" alt="Rafa-Pandas" height="35" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdM-flsqMev-CGxztvU3DMzboeQkIFxfzDaj9MdWlrDA&s">
   <img align="center" alt="Rafa-SKlearn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
   <img align="center" alt="Rafa-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
