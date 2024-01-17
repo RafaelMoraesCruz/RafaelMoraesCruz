@@ -2,7 +2,7 @@
 <h2> Developer & Data Analyst</h2>
 <h4> Contact: rafaelgeorgedemoraescruz@gmail.com </h4>
 <ul>
-  <li>Resident of software at CIn/Motorola (currently)</li>
+  <li>Software's residente at CIn/Motorola (currently)</li>
   <li>Postgraduate degree in engineering and data analysis (CESAR School) (currently)</li>
   <li>Civil engineer (UPE)</li> 
 </ul>
