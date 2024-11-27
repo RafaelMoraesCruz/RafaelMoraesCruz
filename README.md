@@ -1,11 +1,11 @@
 ## Hello there!!
-<h2>Data Scientist</h2>
-<h4> Contact: rafaelgeorgedemoraescruz@gmail.com </h4>
+<h2>Cientista de dados</h2>
+<h4> Contato: rafaelgeorgedemoraescruz@gmail.com </h4>
 <ul>
-  <li>Postgraduate degree in Generative IA at UPE/FITEC</li>
-  <li>Postgraduate degree in Software development at UFPE/CIN/MOTOROLA</li>
-  <li>Postgraduate degree in Engineering and Data Analysis (CESAR School)</li>
-  <li>Civil engineer UPE</li>
+  <li>Pós-graduação em IA Generativa na UPE/FITEC</li>
+  <li>Pós-graduação em Desenvolvimento de Software na UFPE/CIN/MOTOROLA</li>
+  <li>Pós-graduação em Engenharia e Análise de Dados (CESAR School)</li>
+  <li>Engenheiro Civil pela UPE</li>
 </ul>
 <div align="center">
   <a href="https://github.com/RafaelMoraesCruz">
