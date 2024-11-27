@@ -1,5 +1,5 @@
 ## Hello there!!
-<h2> Data Analyst & Data Scientist</h2>
+<h2>Data Scientist</h2>
 <h4> Contact: rafaelgeorgedemoraescruz@gmail.com </h4>
 <ul>
   <li>Software's resident at CIn/Motorola</li>
