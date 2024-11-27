@@ -2,9 +2,10 @@
 <h2>Data Scientist</h2>
 <h4> Contact: rafaelgeorgedemoraescruz@gmail.com </h4>
 <ul>
-  <li>Software's resident at CIn/Motorola</li>
+  <li>Postgraduate degree in Generative IA at UPE/FITEC</li>
+  <li>Postgraduate degree in Software development at UFPE/CIN/MOTOROLA</li>
   <li>Postgraduate degree in Engineering and Data Analysis (CESAR School)</li>
-  <li>Civil engineer (UPE)</li> 
+  <li>Civil engineer UPE</li>
 </ul>
 <div align="center">
   <a href="https://github.com/RafaelMoraesCruz">
